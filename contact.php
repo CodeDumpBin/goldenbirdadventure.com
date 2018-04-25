@@ -27,10 +27,11 @@
                        <?php endif; ?>
                         <h3 class="tz-title-contact">CONTACT</h3>
                         <ul>
-                            <li>Phone: +91 123456789</li>
-                            <li>Fax: +91 123456789</li>
-                            <li>Email: info@gmail.com</li>
-                            <li>Web: http://www.a2ztourntravel.com</li>
+                            <li>Phone 1: <a href="tel:+917535970007">+91 7535970007</a></li>
+                            <li>Phone 2: <a href="tel:+919536970007">+91 9536970007</a></li>
+			    <li>Phone 3: <a href="tel:+919758149852">+91 9758149852</a></li>
+                            <li>Email: <a href="mailto:info@goldenbirdadventure.com">info@goldenbirdadventure.com</a> , <a href="mailto:sandy.rawat880@gmail.com">sandy.rawat880@gmail.com</a></li>
+                            <li>Web: http://goldenbirdadventure.com</li>
                         </ul>
                     </div>
       </div>

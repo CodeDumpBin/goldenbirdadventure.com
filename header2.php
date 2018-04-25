@@ -3,10 +3,18 @@
 <!DOCTYPE html>
 <html>
 <head>
+
 <meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0" />
+<meta name="geo.position" content="latitude; longitude">
+<meta name="geo.placename" content="Bhimtal">
+<meta name="geo.region" content="263136">
+<meta name="Title" content="<?php echo  $SEO_HOME_TITLE; ?>" />
+<meta name="description" content="<?php echo  $SEO_HOME_DESCRIPTION; ?>" />
+<meta name="keywords" content="<?php echo $SEO_HOME_KEYWORDS; ?>" />
 <meta name="SKYPE_TOOLBAR" content="SKYPE_TOOLBAR_PARSER_COMPATIBLE"/>
-<title>Travel</title>
+<title><?php echo  $SEO_HOME_TITLE; ?></title>
+
 <link rel="shortcut icon" href="images/favicon.ico" type="images/x-icon" />
 <link href="fonts/awesome/css/font-awesome.min.css" rel="stylesheet" />
 <link href="http://fonts.googleapis.com/css?family=Raleway:400,700,600,500,300,100,200,800" rel="stylesheet" />

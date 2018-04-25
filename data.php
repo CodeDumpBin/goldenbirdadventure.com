@@ -5,6 +5,8 @@ $BUSINESS_NAME= "Golden Bird Adventure - Paragliding";
 /*Home Page*/
 $HOME_TITLE_2="Adventure, Sports, Paragliding in Bhimtal Nainital";
 $HOME_descrption_2="<p>Trecking, Sports, Adventure in Nainital,Paragliding in Bhimtal</p>";
+$SEO_HOME_DESCRIPTION = "Golden Bird Adventure Paragliding in Bhimtal, Nainital is a top company in the category Adventure Tour Packages, also known for River Rafting, Domestic Tour Packages, Tour Operators For Sight Seeing, Paragliding Services, Sight Seeing and much more. Visit Justdial for Address, Contact Number, Reviews & Ratings, Photos, Maps of Golden Bird Adventure Paragliding, Bhimtal, Nainital."
+$SEO_HOME_KEYWORDS="Golden Bird Adventure Paragliding , Reviews, Contact number, Phone number, Address, Map, Golden Bird Adventure Paragliding Nainital, Ratings, Directions, Official website link, Working hours, Services";
 $packages=array(
    array("images/1.jpg","Short Flight <br> 3-10 minutes","Starts from Rs. 1500"),
     array("images/2.jpg","Medium Ride <br> 7-10 minutes","Starts from Rs. 2500"),

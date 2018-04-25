@@ -8,7 +8,9 @@
 <meta name="geo.position" content="latitude; longitude">
 <meta name="geo.placename" content="Bhimtal">
 <meta name="geo.region" content="263136">
-
+<meta name="Title" content="<?php echo  $SEO_HOME_TITLE; ?>" />
+<meta name="description" content="<?php echo  $SEO_HOME_DESCRIPTION; ?>" />
+<meta name="keywords" content="<?php echo $SEO_HOME_KEYWORDS; ?>" />
 <meta name="SKYPE_TOOLBAR" content="SKYPE_TOOLBAR_PARSER_COMPATIBLE"/>
 <title><?php echo  $SEO_HOME_TITLE; ?></title>
 <link rel="shortcut icon" href="images/favicon.ico" type="images/x-icon" />

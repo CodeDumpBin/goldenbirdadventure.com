@@ -47,8 +47,8 @@
           <li>
             <figure class="item-collection"> <img src="images/icons/m_icon_3.png" alt="responsive">
               <figcaption>
-                <div class="box2"><h6>Support Cases</h6>
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p></div>
+                <div class="box2"><h6>Prices</h6>
+                <p></p></div>
               </figcaption>
             </figure>
           </li>
